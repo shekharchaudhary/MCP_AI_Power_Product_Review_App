@@ -1,0 +1,227 @@
+{
+  "iPhone 15 Pro": {
+    "reviews": [
+      {
+        "text": "The titanium design is absolutely stunning and feels premium in hand. The camera system is incredible, especially the 5x zoom.",
+        "rating": 5,
+        "sentiment": "positive",
+        "source": "Amazon",
+        "date": "2024-01-15"
+      },
+      {
+        "text": "Great performance with the A17 Pro chip, but the battery life could be better. Still worth the upgrade from iPhone 13.",
+        "rating": 4,
+        "sentiment": "positive",
+        "source": "Best Buy",
+        "date": "2024-01-20"
+      },
+      {
+        "text": "Expensive but the Action Button and USB-C are game changers. The display is gorgeous.",
+        "rating": 5,
+        "sentiment": "positive",
+        "source": "Apple Store",
+        "date": "2024-01-10"
+      },
+      {
+        "text": "Good phone but not much different from iPhone 14 Pro. The price increase is hard to justify.",
+        "rating": 3,
+        "sentiment": "neutral",
+        "source": "Verizon",
+        "date": "2024-01-25"
+      },
+      {
+        "text": "Battery drains too fast and the phone gets hot during gaming. Expected better for this price.",
+        "rating": 2,
+        "sentiment": "negative",
+        "source": "Amazon",
+        "date": "2024-01-18"
+      }
+    ],
+    "metadata": {
+      "category": "Smartphones",
+      "brand": "Apple",
+      "price": "$999",
+      "release_date": "2023-09-22"
+    }
+  },
+  "Samsung Galaxy S24 Ultra": {
+    "reviews": [
+      {
+        "text": "The S Pen integration is fantastic and the camera system is top-notch. The AI features are impressive.",
+        "rating": 5,
+        "sentiment": "positive",
+        "source": "Samsung",
+        "date": "2024-01-30"
+      },
+      {
+        "text": "Excellent battery life and the display is incredible. The titanium frame feels premium.",
+        "rating": 5,
+        "sentiment": "positive",
+        "source": "Best Buy",
+        "date": "2024-02-05"
+      },
+      {
+        "text": "Great phone but One UI could be more polished. The fingerprint sensor is sometimes unreliable.",
+        "rating": 4,
+        "sentiment": "positive",
+        "source": "Amazon",
+        "date": "2024-02-01"
+      },
+      {
+        "text": "The AI features are gimmicky and the phone is too expensive. Good hardware though.",
+        "rating": 3,
+        "sentiment": "neutral",
+        "source": "Verizon",
+        "date": "2024-02-10"
+      },
+      {
+        "text": "Fingerprint sensor is unreliable and the phone is too heavy. Not worth the premium price.",
+        "rating": 2,
+        "sentiment": "negative",
+        "source": "Amazon",
+        "date": "2024-02-15"
+      }
+    ],
+    "metadata": {
+      "category": "Smartphones",
+      "brand": "Samsung",
+      "price": "$1299",
+      "release_date": "2024-01-24"
+    }
+  },
+  "MacBook Pro M3 Max": {
+    "reviews": [
+      {
+        "text": "Incredible performance for video editing and 3D rendering. The battery life is amazing for this power.",
+        "rating": 5,
+        "sentiment": "positive",
+        "source": "Apple Store",
+        "date": "2024-01-15"
+      },
+      {
+        "text": "Perfect for professional work. The M3 Max chip handles everything I throw at it without breaking a sweat.",
+        "rating": 5,
+        "sentiment": "positive",
+        "source": "Best Buy",
+        "date": "2024-01-20"
+      },
+      {
+        "text": "Expensive but worth every penny for creative professionals. The display is stunning.",
+        "rating": 5,
+        "sentiment": "positive",
+        "source": "Amazon",
+        "date": "2024-01-25"
+      },
+      {
+        "text": "Great performance but the lack of ports is annoying. Need to carry dongles everywhere.",
+        "rating": 4,
+        "sentiment": "positive",
+        "source": "Apple Store",
+        "date": "2024-02-01"
+      },
+      {
+        "text": "Not many ports and the price is steep. Good performance but overkill for most users.",
+        "rating": 3,
+        "sentiment": "neutral",
+        "source": "Best Buy",
+        "date": "2024-02-05"
+      }
+    ],
+    "metadata": {
+      "category": "Laptops",
+      "brand": "Apple",
+      "price": "$3499",
+      "release_date": "2023-10-30"
+    }
+  },
+  "Sony WH-1000XM5": {
+    "reviews": [
+      {
+        "text": "Best noise cancellation I've ever experienced. Perfect for flights and commuting.",
+        "rating": 5,
+        "sentiment": "positive",
+        "source": "Amazon",
+        "date": "2024-01-10"
+      },
+      {
+        "text": "Amazing sound quality and the battery life is incredible. Worth the premium price.",
+        "rating": 5,
+        "sentiment": "positive",
+        "source": "Best Buy",
+        "date": "2024-01-15"
+      },
+      {
+        "text": "Comfortable for long hours of wear. The touch controls are intuitive and responsive.",
+        "rating": 5,
+        "sentiment": "positive",
+        "source": "Sony",
+        "date": "2024-01-20"
+      },
+      {
+        "text": "Great sound but the touch controls can be finicky. Sometimes activates when adjusting the headphones.",
+        "rating": 4,
+        "sentiment": "positive",
+        "source": "Amazon",
+        "date": "2024-01-25"
+      },
+      {
+        "text": "Touch controls are too sensitive and the case is too big. Good sound quality though.",
+        "rating": 3,
+        "sentiment": "neutral",
+        "source": "Best Buy",
+        "date": "2024-02-01"
+      }
+    ],
+    "metadata": {
+      "category": "Headphones",
+      "brand": "Sony",
+      "price": "$399",
+      "release_date": "2022-05-13"
+    }
+  },
+  "Nintendo Switch OLED": {
+    "reviews": [
+      {
+        "text": "The OLED screen is beautiful and the battery life is much better than the original Switch.",
+        "rating": 5,
+        "sentiment": "positive",
+        "source": "Amazon",
+        "date": "2024-01-15"
+      },
+      {
+        "text": "Perfect for both handheld and docked gaming. The improved kickstand is great for tabletop mode.",
+        "rating": 5,
+        "sentiment": "positive",
+        "source": "Best Buy",
+        "date": "2024-01-20"
+      },
+      {
+        "text": "Great console but the Joy-Con drift issue is still present. Nintendo should fix this.",
+        "rating": 4,
+        "sentiment": "positive",
+        "source": "GameStop",
+        "date": "2024-01-25"
+      },
+      {
+        "text": "Good upgrade from the original Switch but not essential if you already have one.",
+        "rating": 3,
+        "sentiment": "neutral",
+        "source": "Amazon",
+        "date": "2024-02-01"
+      },
+      {
+        "text": "Joy-Con drift is still a problem and the online service is overpriced for what you get.",
+        "rating": 2,
+        "sentiment": "negative",
+        "source": "Best Buy",
+        "date": "2024-02-05"
+      }
+    ],
+    "metadata": {
+      "category": "Gaming",
+      "brand": "Nintendo",
+      "price": "$349",
+      "release_date": "2021-10-08"
+    }
+  }
+} 
